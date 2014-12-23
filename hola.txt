@@ -1,0 +1,7 @@
+este
+es un
+archivo
+de ejemplo
+para entender el funcionamiento
+de la plataforma de control de versiones multiusuario
+GIT HUB
