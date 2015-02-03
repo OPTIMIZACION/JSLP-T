@@ -1,5 +1,5 @@
 este
-es un
+es un {file git extends}
 archivo
 de ejemplo
 para entender el funcionamiento
